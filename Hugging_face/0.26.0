@@ -21,3 +21,4 @@ Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\chait\minico
 Requirement already satisfied: idna<4,>=2.5 in c:\users\chait\miniconda3\envs\nlp-env\lib\site-packages (from requests->huggingface_hub>=0.21.0->accelerate) (3.7)
 Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\chait\miniconda3\envs\nlp-env\lib\site-packages (from requests->huggingface_hub>=0.21.0->accelerate) (2.5.0)
 Requirement already satisfied: certifi>=2017.4.17 in c:\users\chait\miniconda3\envs\nlp-env\lib\site-packages (from requests->huggingface_hub>=0.21.0->accelerate) (2025.8.3)
+
