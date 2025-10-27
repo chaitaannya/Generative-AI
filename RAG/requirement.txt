@@ -1,0 +1,11 @@
+pypdf
+pymupdf
+langchain==0.3.27
+langchain_core==0.3.79
+langchain_community==0.3.25
+langchain-google-genai==2.0.2
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
